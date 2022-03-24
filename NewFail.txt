@@ -6,4 +6,5 @@ void Main()
 {
 cin<<"gg"<<endl;
 cout>>"dsfs>>endl;
+Print();
 }
