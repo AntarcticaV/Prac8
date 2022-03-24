@@ -5,4 +5,5 @@ using namespace std;
 void Main() 
 {
 cin<<"gg"<<endl;
+cout>>"dsfs>>endl;
 }
